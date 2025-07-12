@@ -1,74 +1,60 @@
-# 👋 Hi, I'm Sumit Kumar Das
+# 🚀 **Sumit Kumar Das** | *Full-Stack Developer & AI Innovator*
 
-🚀 A passionate **Software Developer | AI Explorer | Cybersecurity Analyst** from Kolkata, India  
-🎓 B.Tech CSE @ IEM Kolkata (CGPA 9.2) | Minor in Cybersecurity  
-🛠️ Working across **Web, AI/ML, DevOps, and Security**, blending real-world development with cutting-edge research
+<div align="center">
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Engineer;Cybersecurity+Analyst;Open+Source+Contributor)
 
-## 🌟 Current Roles & Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitkumardas-ai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mere-vie.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skdas20)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkumardas.ai@gmail.com)
 
-- 🖥️ **Tech Intern @ HealthSeva.in** – Full-stack architecture with React + Spring Boot  
-- 🧠 **AI Intern @ IEMA Research Foundation** – UI-to-Code Generator, NLP Meeting Summarizer  
-- 🏡 **MERN Stack Intern @ AR Village** – Building scalable, real-world REST APIs & admin tools  
-- 🤖 **Firmware Project (Mentor-supervised)** – Raspberry Pi-based earbud button OS  
-- 🌐 **Site Architect @ IEM COEs** – Designed startup sites (Clinicado, Amaraa, DigilexAI)  
+</div>
 
 ---
 
-## 🧠 Core Skills
+## 🎯 **About Me**
 
-**Languages**: Java, Python, JavaScript (ES6+), C++, R, MATLAB  
-**Web Stack**: React, Spring Boot, Node.js, MongoDB, PostgreSQL, REST APIs  
-**AI/ML**: TensorFlow, PyTorch, Keras, Scikit-learn, Computer Vision, NLP  
-**DevOps**: Docker, GitHub/GitLab CI/CD, Postman  
-**Security**: OWASP, SIEM, Risk Assessment, Burp Suite, Metasploit  
-**Tools**: Canva, Notion, Confluence, Gamma, MS Office
+<div align="center">
 
----
+> *"Passionate technologist from Kolkata, India, bridging the gap between cutting-edge AI research and real-world software solutions"*
 
-## 🏆 Highlights
+</div>
 
-- 🎖️ **Meta Certified Front-End Developer**
-- 💻 150+ Leetcode problems – focused on **patterns & optimization**
-- 🛡️ Advanced Cybersecurity training @ IIIT Delhi
-- 🧠 AI Training from WIPRO + Real-world ML deployments
-- 🌍 Volunteered @ Choose France Tour 2023 | Fluent in English, French, Hindi, Bengali
+<table>
+<tr>
+<td>
 
----
+**🎓 Education**
+- B.Tech CSE @ IEM Kolkata
+- **CGPA: 9.2/10**
+- Minor in Cybersecurity
 
-## 📈 I'm Currently Focusing On...
+</td>
+<td>
 
-- 🔁 Mastering **Dynamic Programming, Trees, Graphs** for DSA prep  
-- 🌐 Building strong backend skills with **Node.js + Express.js**  
-- ☁️ Expanding cloud and CI/CD workflow knowledge  
-- 📄 Contributing to research papers on **Gen AI & Healthcare**  
-- 📚 Preparing for **GATE CS 2026** & maintaining CGPA
+**🏆 Certifications**
+- Meta Certified Front-End Developer
+- Advanced Cybersecurity @ IIIT Delhi
+- AI/ML Training @ WIPRO
 
----
+</td>
+<td>
 
-## 📂 Featured Projects
+**🌐 Languages**
+- English (Fluent)
+- French (Conversational)
+- Hindi (Native)
+- Bengali (Native)
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🎶 [MelomV](https://github.com/skdas20/MelomV) | Python, OpenCV | Emotion-based music player using facial gestures |
-| 🔍 [Digilex AI](https://digilexai.vercel.app/document-generator) | Gen AI | Legal doc generator powered by generative AI |
-| 💳 [ATM Simulator](https://github.com/skdas20/CODSOFT/tree/main/ATMGUI) | Java Swing | Secure multithreaded ATM simulation |
-| 🧠 [Churn Predictor](https://github.com/skdas20/Churn) | RL, XAI | Predicts customer churn & explains decisions |
-| 🎮 [MeshGrid Game](https://github.com/skdas20/MeshGrid) | RL, Java | Multiplayer grid game with AI bot agent |
-| 🧪 [Earbud OS](https://main.dzjs985uqhw12.amplifyapp.com/) | IoT, Raspberry Pi | Customizable firmware for real-time control |
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔗 Connect With Me
+## 💼 **Professional Experience**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sumitkumardas-ai/)  
-- 💻 [Portfolio](https://mere-vie.vercel.app/)  
-- 🐱‍💻 [GitHub](https://github.com/skdas20)
-
----
-
-> *"Code for impact. Build with passion. Learn without limits."*
-
----
+<details>
+<summary><h3>🖥️ <strong>Tech Intern</strong> | <em>HealthSeva.in</em></h3></summary>
 
