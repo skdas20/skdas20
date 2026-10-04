@@ -1,202 +1,121 @@
-<!-- Profile Header -->
-<h1 align="center">🚀 Sumit Kumar Das</h1>
-<p align="center">
-  <i>Full-Stack Developer • AI/ML Engineer • Cybersecurity • Open Source</i><br/>
-  Kolkata, India · <a href="mailto:skdas5405@gmail.com">skdas5405@gmail.com</a> · +91 80170 81246
+<div align="center">
+
+# Sumit Kumar Das
+
+<a href="https://developersumit.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Software+engineer+%C2%B7+open+source+contributor;Code+merged+into+Node.js%2C+Spring+Boot+%26+Spring+Security;Full-stack+%C2%B7+agentic+AI+%C2%B7+security-minded" alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://developersumit.me"><img src="https://img.shields.io/badge/Portfolio-developersumit.me-111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sumitkumardas-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:skdas5405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=1000&color=00E7FF&center=true&vCenter=true&width=820&lines=Full-Stack+%28React%2FNext%2FSpring+Boot%29;AI+%26+ML+%28NLP%2FCV%2FXAI%29;Cybersecurity+%28OWASP%2FPT%2FSIEM%29;Open+Source+Project+Admin+%28GSSOC+2025%29;Always+learning.+Always+building.">
-</p>
+<img src="https://img.shields.io/badge/merged_upstream-Node.js_·_Spring_Boot_·_Spring_Security_·_Beckn_·_MONAI-2ea44f?style=flat-square" alt="Merged upstream"/>
+<img src="https://komarev.com/ghpvc/?username=skdas20&style=flat-square&color=2F81F7&label=profile+views" alt="Profile views"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sumitkumardas-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://mere-vie.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7043?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://github.com/skdas20"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:skdas5405@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<!-- Slim stat strip -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skdas20&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/LeetCode-150%2B_solved-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/CGPA-9.2%2F10-brightgreen?style=flat-square" />
-</p>
+</div>
 
 ---
 
-## 🌟 About Me
+### 👋 About
 
-I’m a **B.Tech CSE** student at **IEM Kolkata** (Minor in **Cybersecurity**, CGPA **9.2/10**) building **production-grade web systems** and **applied AI** solutions. I love shipping features end-to-end—**React/Next** on the front, **Spring Boot/Node/ASP.NET** on the back, **Postgres/Mongo** beneath, and **Docker/AWS** on top. I contribute to open source and lead projects that blend **GenAI**, **Explainable AI**, and **security-by-design**.  
-<sub>Sources: latest CV details (Education, roles, certs, achievements). :contentReference[oaicite:0]{index=0}</sub>
+I'm a final-year B.Tech student at the **Institute of Engineering & Management, Kolkata** (2027) who builds and ships real software: client products deployed end to end, agentic AI tooling, and small, well-tested fixes to the open-source projects millions of developers depend on.
+
+I like problems where correctness matters: a regex that goes super-linear, a log encoder that corrupts the next event, a credential validator that accepts a proof it shouldn't.
+
+### ⚡ Right now
+
+- 📈 **Intern – Quant** at **Futures First**, Kolkata *(Sep 2026 – present)*
+- 🚀 **Forward Deployment Engineering Intern** at **UrsDigitally** *(Nov 2025 – Oct 2026)*: built, deployed and hosted client web apps, partner portals and mobile back ends, from first commit to production VPS
+- 🏅 Selected as **Specialist Programmer (SP)** at **Infosys** through the 2026 national hiring process
+- 🌱 Open source on the side: Linux desktop (Ubuntu), Python, Go and the JavaScript tooling ecosystem
 
 ---
 
-## 🧭 Quick Cards
+### 🔀 Merged upstream
 
 <table>
 <tr>
+<td align="center" width="96"><a href="https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Askdas20"><img src="https://github.com/nodejs.png" width="44" alt="Node.js"/><br/><sub><b>Node.js</b></sub></a></td>
 <td>
-
-### 🎓 Education
-- **B.Tech CSE**, IEM Kolkata  
-  <sub>Minor: Cybersecurity · Expected **May 2027** · CGPA **9.2**</sub>
-
-### 🏅 Certifications
-- Meta **Front-End Developer**
-- **Advanced Cybersecurity** (IIIT Delhi)
-- **AI (Wipro)** • **Advanced System Security** (Univ. of Colorado)
-
-### 🌐 Languages
-- English, French (conv.), Hindi, Bengali
-
+<a href="https://github.com/nodejs/node/pull/61951"><code>#61951</code></a> esm: avoid a super-linear regex when parsing <code>data:</code> URL MIME types<br/>
+<a href="https://github.com/nodejs/node/pull/62009"><code>#62009</code></a> doc: clarify the SQLite bare named-parameter default<br/>
+<a href="https://github.com/nodejs/node/pull/62010"><code>#62010</code></a> doc: mention the constructor check in <code>deepStrictEqual</code>
 </td>
-<td>
-
-### 💼 Current Roles
-- **SDE Intern — Agadhanimus Technologies** *(Jun 2025 – Present)*  
-  Multi-vendor e-commerce, scalable backends, WebRTC Meet clone for teaching.
-- **Site Architect — IEM IEDC Labs** *(Mar 2024 – Present)*  
-  Supervisor for multiple startup websites; React, Spring Boot, ASP.NET, AWS.
-
-### 🧪 Recent Internships
-- **Tech Dev Intern — HealthSeva** *(2025)*  
-  React frontend + **ASP.NET** backend for **healthseva.in**
-- **R&D Intern — IEMA Research Foundation**  
-  UI→Code (HTML/CSS) via DL, NLP meeting summarizer agents.
-
-</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/spring-projects/spring-boot/pull/51156"><img src="https://github.com/spring-projects.png" width="44" alt="Spring"/><br/><sub><b>Spring Boot</b></sub></a></td>
+<td><a href="https://github.com/spring-projects/spring-boot/pull/51156"><code>#51156</code></a> Structured logging: a failed JSON encode no longer corrupts the next log event on the same thread (fix + regression tests)</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/spring-projects/spring-security/pull/19477"><img src="https://github.com/spring-projects.png" width="44" alt="Spring"/><br/><sub><b>Spring Security</b></sub></a></td>
+<td><a href="https://github.com/spring-projects/spring-security/pull/19477"><code>#19477</code></a> Differentiate <code>Forwarded</code> and <code>X-Forwarded-*</code> headers in the proxy docs</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/beckn/beckn-onix/pull/895"><img src="https://github.com/beckn.png" width="44" alt="Beckn"/><br/><sub><b>Beckn ONIX</b></sub></a></td>
+<td><a href="https://github.com/beckn/beckn-onix/pull/895"><code>#895</code></a> vcvalidator: reject a Data Integrity proof with no <code>verificationMethod</code> (the open protocol behind ONDC)</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/Project-MONAI/MONAI/pull/8753"><img src="https://github.com/Project-MONAI.png" width="44" alt="MONAI"/><br/><sub><b>MONAI</b></sub></a></td>
+<td><a href="https://github.com/Project-MONAI/MONAI/pull/8753"><code>#8753</code></a> Clearer error messages in the image writers (medical-imaging AI framework)</td>
 </tr>
 </table>
 
-<sub>Experiences, stacks, and date ranges aligned with CV. :contentReference[oaicite:1]{index=1}</sub>
+<details>
+<summary><b>🕒 Currently in review</b>: Ubuntu, CPython, Go, VS Code, Fastify, Drizzle and more</summary>
+<br/>
+
+| Project | Pull request |
+|---|---|
+| Ubuntu App Center | [#2192](https://github.com/ubuntu/app-center/pull/2192) show progress while the deb search loads · [#2217](https://github.com/ubuntu/app-center/pull/2217) install updates from local deb files |
+| Ubuntu Yaru (Flutter) | [#1100](https://github.com/ubuntu/yaru.dart/pull/1100) accessibility: avoid duplicate tab stops in toggle list tiles |
+| CPython | [#156474](https://github.com/python/cpython/pull/156474) don't specialize `LOAD_ATTR_MODULE` for module subclasses · [#156828](https://github.com/python/cpython/pull/156828) finalize the external-entity parser in `xml.sax` |
+| Go | [#81167](https://github.com/golang/go/pull/81167) crypto/ecdsa: add text marshaling for keys |
+| VS Code | [#297032](https://github.com/microsoft/vscode/pull/297032) SCM: allow wider diff decoration gutters |
+| Fastify | [#6526](https://github.com/fastify/fastify/pull/6526) types: `send()` accepts PromiseLike · [#6936](https://github.com/fastify/fastify/pull/6936) observe rejection of a dropped payload |
+| Drizzle ORM | [#6066](https://github.com/drizzle-team/drizzle-orm/pull/6066) regression test for an unrelated FK on a recreated table |
+| Spring Boot / Security | [#51372](https://github.com/spring-projects/spring-boot/pull/51372) · [#19552](https://github.com/spring-projects/spring-security/pull/19552) · [#19607](https://github.com/spring-projects/spring-security/pull/19607) |
+| Node.js · Git · Elastic · TypeScript site · pylint | [#62011](https://github.com/nodejs/node/pull/62011) · [git #2210](https://github.com/gitgitgadget/git/pull/2210) · [#422](https://github.com/elastic/elastic-transport-js/pull/422) · [#3514](https://github.com/microsoft/TypeScript-Website/pull/3514) · [#11190](https://github.com/pylint-dev/pylint/pull/11190) |
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack (Badges you can scan fast)
+### 🧩 Things I've built
 
-**Core:** Java • Python • C++ • JavaScript • SQL  
-**Web:** React • Next.js • Spring Boot • Node/Express • ASP.NET • REST • Microservices • Responsive UI  
-**DB:** PostgreSQL • MongoDB • MySQL • Redis  
-**AI/ML:** TensorFlow • PyTorch • scikit-learn • NLP • CV • XAI (SHAP)  
-**Security:** OWASP • PT (Burp, Metasploit, Wireshark) • SIEM  
-**Ops:** Docker • AWS • GitHub Actions • Postman
-
-<p align="center">
-  <!-- Iconic skill badges (sample) -->
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| **WebMaster** | Agentic automation control plane that drives browser and Linux desktop actions over WebSockets, choosing between the accessibility tree, input synthesis and the shell per action for latency and token cost, with state verification and retries | WebSockets · agentic AI · Linux |
+| [**SkeoTrace**](https://github.com/skdas20/SkeoTrace) · [live](https://skeo-trace.vercel.app) | Blockchain-backed organic produce traceability with role-based access | TypeScript |
+| [**MeshGrid**](https://github.com/skdas20/MeshGrid) · [live](https://mesh-grid.vercel.app) | Multiplayer line-strategy game | JavaScript |
+| [**Audacity**](https://github.com/skdas20/Audacity) | Real-time voice cloning | Python |
+| [**Churn**](https://github.com/skdas20/Churn) | Explainable churn prediction with a SHAP dashboard | Python · XGBoost · Streamlit |
+| [**Digilexai**](https://github.com/skdas20/Digilexai) | Legal document generation and analysis with LLMs | Next.js · MongoDB |
+| [**MelomV**](https://github.com/skdas20/MelomV) | Emotion-aware music player (CNN + gestures) | Python · OpenCV · TensorFlow |
 
 ---
 
-## 🧩 Selected Projects
+### 🛠️ Toolbox
 
-> Click to explore — all are live or repository-ready.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,go&perline=12" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nextjs,react,dotnet,flutter&perline=12" alt="Frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,kubernetes,aws,linux,githubactions&perline=12" alt="Infra"/>
+</p>
 
-- **MelomV** — Emotion-aware music player (CNN + gestures) · Python/OpenCV/TensorFlow  
-  Repo: <a href="https://github.com/skdas20/MelomV">github.com/skdas20/MelomV</a>
-- **DigilexAI** — Legal doc generation & analysis · Next.js + LLMs + MongoDB  
-  Live: <a href="https://digilexai.vercel.app/document-generator">digilexai.vercel.app/document-generator</a>
-- **Churn (XAI)** — Explainable churn prediction (SHAP dashboard) · Python/Streamlit/XGBoost  
-  Repo: <a href="https://github.com/skdas20/Churn">github.com/skdas20/Churn</a>
-- **MeshGrid** — 2D multiplayer strategy with RL bots · Java/JavaFX  
-  Repo: <a href="https://github.com/skdas20/MeshGrid">github.com/skdas20/MeshGrid</a>
-- **Skeo-Trace** — Blockchain-based organic traceability · Role-based access  
-  Live: <a href="https://skeo-trace.vercel.app/">skeo-trace.vercel.app</a>
-- **Earbud OS** — Customizable earbud button firmware + web control  
-  Demo: <a href="https://main.dzjs985uqhw12.amplifyapp.com/">amplifyapp.com demo</a>
-
-<sub>Project list and links synced with CV references. :contentReference[oaicite:2]{index=2}</sub>
+**Also:** agentic AI systems and LLM integration · OWASP and application security · SSL/TLS, PM2 and VPS hosting · Burp Suite and Wireshark
 
 ---
 
-## 🏆 Achievements
+### 🎓 Also
 
-- **Project Admin — GSSOC 2025**; Contributor in Hacktoberfest, GSSOC, SWOC, DevFest  
-- **Runner-up:** IEMHacks 3.0 & Hack Spectrum 2025  
-- **Community:** Founder, **CySec Club (IEM)**; Member, **GDG IEM**  
-- Volunteered — **Choose France Tour 2023**  
-- **150+ LeetCode** focused on patterns & optimization
+- **GSSoC 2025:** open-source project admin
+- **Education:** B.Tech, Institute of Engineering & Management, Kolkata · 2023 – 2027 · CGPA 8.99
+- **Languages:** English · Hindi · Bengali · French (conversational)
 
-<sub>Aligned with CV awards/activities. :contentReference[oaicite:3]{index=3}</sub>
-
----
-
-## 📊 Dev Visuals (Animated)
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=skdas20&show_icons=true&count_private=true&hide_border=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=skdas20&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Top languages (note: indicative for profile repos) -->
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skdas20&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=skdas20&theme=algolia&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skdas20&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
-
-<!-- Optional: 3D Contribution Profile (needs GitHub Action in your repo to generate) -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/skdas20/skdas20/output/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
--->
-
----
-
-## 🔭 What I’m Focusing On (Now → Next 3 Months)
-
-- **System Design for scale** (10M+), **Microservices**, **DB Sharding**, **Load Balancing**  
-- **Cloud & DevOps:** Kubernetes, CI/CD hardening, IaC, Observability  
-- **R&D:** GenAI in Healthcare, NLP agents for meetings, CV for assistive systems  
-- **Security:** SIEM pipelines, blue-team automation, secure SDLC
-
----
-
-## 🤝 Let’s Collaborate
-
-- **Full-Stack roles** with AI/ML integration  
-- **Research collabs** (XAI, healthcare, policy tech)  
-- **Open Source** (tooling, docs, workflows)  
-- **Mentorship & student communities**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sumitkumardas-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://mere-vie.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/See-Portfolio-FF7043?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="mailto:skdas5405@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-### 💡 Quote I live by
-> “In the intersection of code and creativity lies the power to transform ideas into reality.”
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=skdas20.profile" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <sub>Last Updated: Sept 2025 • Built with ❤️ and plenty of ☕</sub>
-</p>
+<div align="center">
+<br/>
+<sub>Open to software engineering roles, remote or in Kolkata · <a href="mailto:skdas5405@gmail.com">skdas5405@gmail.com</a></sub>
+</div>
