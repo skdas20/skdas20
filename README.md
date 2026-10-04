@@ -21,7 +21,7 @@
 
 ### 👋 About
 
-I'm a final-year B.Tech student at the **Institute of Engineering & Management, Kolkata** (2027) who builds and ships real software: client products deployed end to end, agentic AI tooling, and small, well-tested fixes to the open-source projects millions of developers depend on.
+I'm a software engineer in Kolkata who builds and ships real software: client products deployed end to end, agentic AI tooling, and small, well-tested fixes to the open-source projects millions of developers depend on.
 
 I like problems where correctness matters: a regex that goes super-linear, a log encoder that corrupts the next event, a credential validator that accepts a proof it shouldn't.
 
@@ -112,7 +112,6 @@ I like problems where correctness matters: a regex that goes super-linear, a log
 ### 🎓 Also
 
 - **GSSoC 2025:** open-source project admin
-- **Education:** B.Tech, Institute of Engineering & Management, Kolkata · 2023 – 2027 · CGPA 8.99
 - **Languages:** English · Hindi · Bengali · French (conversational)
 
 <div align="center">
